@@ -1,0 +1,11 @@
+C:\Users\Chuck\Desktop\Grand Circus\Project\Project Coffee Shop\Project Coffee Shop\bin\Debug\netcoreapp2.1\Project Coffee Shop.deps.json
+C:\Users\Chuck\Desktop\Grand Circus\Project\Project Coffee Shop\Project Coffee Shop\bin\Debug\netcoreapp2.1\Project Coffee Shop.runtimeconfig.json
+C:\Users\Chuck\Desktop\Grand Circus\Project\Project Coffee Shop\Project Coffee Shop\bin\Debug\netcoreapp2.1\Project Coffee Shop.runtimeconfig.dev.json
+C:\Users\Chuck\Desktop\Grand Circus\Project\Project Coffee Shop\Project Coffee Shop\bin\Debug\netcoreapp2.1\Project Coffee Shop.dll
+C:\Users\Chuck\Desktop\Grand Circus\Project\Project Coffee Shop\Project Coffee Shop\bin\Debug\netcoreapp2.1\Project Coffee Shop.pdb
+C:\Users\Chuck\Desktop\Grand Circus\Project\Project Coffee Shop\Project Coffee Shop\obj\Debug\netcoreapp2.1\Project Coffee Shop.csprojAssemblyReference.cache
+C:\Users\Chuck\Desktop\Grand Circus\Project\Project Coffee Shop\Project Coffee Shop\obj\Debug\netcoreapp2.1\Project Coffee Shop.csproj.CoreCompileInputs.cache
+C:\Users\Chuck\Desktop\Grand Circus\Project\Project Coffee Shop\Project Coffee Shop\obj\Debug\netcoreapp2.1\Project Coffee Shop.AssemblyInfoInputs.cache
+C:\Users\Chuck\Desktop\Grand Circus\Project\Project Coffee Shop\Project Coffee Shop\obj\Debug\netcoreapp2.1\Project Coffee Shop.AssemblyInfo.cs
+C:\Users\Chuck\Desktop\Grand Circus\Project\Project Coffee Shop\Project Coffee Shop\obj\Debug\netcoreapp2.1\Project Coffee Shop.dll
+C:\Users\Chuck\Desktop\Grand Circus\Project\Project Coffee Shop\Project Coffee Shop\obj\Debug\netcoreapp2.1\Project Coffee Shop.pdb
